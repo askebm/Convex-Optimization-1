@@ -1,0 +1,3 @@
+[submodule "Reading-Material"]
+	path = Reading-Material
+	url = git@github.com:askebm/Convex-Optimization-1-reading-material.git
