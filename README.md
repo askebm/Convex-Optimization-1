@@ -16,6 +16,9 @@
 ## Projects
 
 ### Implement fundamental QP-based motion planning
+#### Reading Material
+ - [FRHTC]
+ - [FE]
 
 ## Litterateur
 
@@ -23,11 +26,11 @@
 
 Shorthand | Book | link
 --- | --- | ---
-BV | Boyd & Vandenberghe: Convex Optimization | [link](https://github.com/askebm/Convex-Optimization-1-reading-material/blob/master/convex_optimization.pdf)
-FE | Ferreau: qpOASES User's Manual | [link](Reading-Material/manual.pdf)
+BV | Boyd & Vandenberghe: Convex Optimization | [link](Convex-Optimization-1-reading-material/convex_optimization.pdf)
+FE | Ferreau: qpOASES User's Manual | [link](Convex-Optimization-1-reading-material/manual.pdf)
 
 ### Papers
 
 Shorthand | Paper | Authors | link
 --- | --- | --- | ---
-FRHTC | Efficient Self-Collision Avoidance based on Focus of Interest for Humanoid Robots | Cheng Fang, Alessio Rocchi, Enrico Mingo Hoffman, Nikos G. Tsagarakis and Darwin G. Caldwell | [link](Reading-Material/Efficient_self-collision_avoidance.pdf)
+FRHTC | Efficient Self-Collision Avoidance based on Focus of Interest for Humanoid Robots | Cheng Fang, Alessio Rocchi, Enrico Mingo Hoffman, Nikos G. Tsagarakis and Darwin G. Caldwell | [link](Convex-Optimization-1-reading-material/Efficient_self-collision_avoidance.pdf)
