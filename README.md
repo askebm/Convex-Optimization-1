@@ -23,7 +23,7 @@
 
 Shorthand | Book | link
 --- | --- | ---
-BV | Boyd & Vandenberghe: Convex Optimization | [link](Reading-Material/convex_optimization.pdf)
+BV | Boyd & Vandenberghe: Convex Optimization | [link](https://github.com/askebm/Convex-Optimization-1-reading-material/blob/master/convex_optimization.pdf)
 FE | Ferreau: qpOASES User's Manual | [link](Reading-Material/manual.pdf)
 
 ### Papers
