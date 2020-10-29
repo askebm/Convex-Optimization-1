@@ -6,10 +6,25 @@
 
 ### 1. Introduction to optimization
 #### Reading Material
- - [BV] Theory (Pages 19-273)
+ - [BV] Theory Part 1,2 and 3
  - [SCO] Lecture 1-4 
 
+
+#### Exercise
+Implement Gradient repulsive field for 3 joint 2D robot and simulate in python.
+
+#### Topics
+ - Jacobian
+ - Monroe Pseudo Inverse
+ - Least Square
+ - Null space
+
 ### 2. Application on robot
+#### Reading Material
+ - [BV] Theory Part 4 and 5
+ - [SCO] Lecture 5-?
+
+
 ### 3. Application on robot
 
 
